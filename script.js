@@ -1,4 +1,4 @@
 console.log('hello')
 
 
-console.dir(object);
+console.dir('hello world');
